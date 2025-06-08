@@ -13,7 +13,6 @@
 🛠️ Desenvolvendo projetos full stack para consolidar meus aprendizados e construir um portfólio sólido.  
 📍 Localizado em **Manaus/AM** — aberto a oportunidades **remotas ou presenciais**.
 
-“Buscando minha primeira oportunidade como Desenvolvedor Full Stack”
 
 ---
 
