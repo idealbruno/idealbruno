@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bruno Ramos Rodrigues 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação • Apaixonado por tecnologia • Buscando minha primeira oportunidade
+  Formado em jogos Digital, Cursando Desenvolvedor Full Stack • Apaixonado por tecnologia • Buscando minha primeira oportunidade
 </p>
 
 ---
