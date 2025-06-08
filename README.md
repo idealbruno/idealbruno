@@ -11,8 +11,9 @@
 🎓 Formado em **Jogos Digitais** e atualmente estudando **Desenvolvimento Full Stack**.  
 💻 Tenho conhecimento com **HTML**, **CSS**, **JavaScript**, **Python** e **C#**.  
 🛠️ Desenvolvendo projetos full stack para consolidar meus aprendizados e construir um portfólio sólido.  
-“Buscando minha primeira oportunidade como Desenvolvedor Full Stack”
 📍 Localizado em **Manaus/AM** — aberto a oportunidades **remotas ou presenciais**.
+
+“Buscando minha primeira oportunidade como Desenvolvedor Full Stack”
 
 ---
 
