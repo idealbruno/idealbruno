@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 🎓 Formado em **Jogos Digitais** e atualmente estudando **Desenvolvimento Full Stack**.  
-💻 Tenho conhecimento com **HTML**, **CSS**, **JavaScript**, Python** **NODE.JS e **C#**.  
+💻 Tenho conhecimento com **HTML**, **CSS**, **JavaScript**, Python NODE.JS e **C#**.  
 🛠️ Desenvolvendo projetos full stack para consolidar meus aprendizados e construir um portfólio sólido.  
 📍 Localizado em **Manaus/AM** — aberto a oportunidades **remotas ou presenciais**.
 
