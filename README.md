@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bruno Ramos Rodrigues 👋</h1>
 
 <p align="center">
-  Formado em jogos Digital e Desenvolvimento Full Stack • Apaixonado por tecnologia • Buscando minha primeira oportunidade.
+  Formado em jogos Digital e Desenvolvimento Full Stack • Sou apaixonado por tecnologia e desenvolvimento web. Atualmente estudo e desenvolvo projetos utilizando HTML e JavaScript, com o objetivo de criar aplicações úteis e bem estruturadas. Estou sempre em busca de evoluir minhas habilidades e enfrentar novos desafios.
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [PORFOLIO](#) *()* | App com autenticação e gerenciamento de tarefas | HTML, JS, Flask, SQLite |
+| [PORFOLIO](#) *(Sobre)* | Meu portfolio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
 | [Clone do Trello](#) *(em breve)* | Sistema de kanban com colunas e cartões arrastáveis | JS, Flask ou ASP.NET |
 | [Dashboard de dados](#) *(em breve)* | Visualização de dados em gráficos usando API pública | HTML, JS, Chart.js |
 
