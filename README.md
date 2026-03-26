@@ -29,7 +29,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [To‑Do List](#) *(em breve)* | App com autenticação e gerenciamento de tarefas | HTML, JS, Flask, SQLite |
+| [To‑Do List](#) *(Porfolio* | App com autenticação e gerenciamento de tarefas | HTML, JS, Flask, SQLite |
 | [Clone do Trello](#) *(em breve)* | Sistema de kanban com colunas e cartões arrastáveis | JS, Flask ou ASP.NET |
 | [Dashboard de dados](#) *(em breve)* | Visualização de dados em gráficos usando API pública | HTML, JS, Chart.js |
 
