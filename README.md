@@ -29,7 +29,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [PORTFOLIO](#) *(Sobre)* | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
+| [PORTFOLIO](#) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
 | [Formulário](#) *(em breve)* | Sistema de kanban com colunas e cartões arrastáveis | JS, Flask ou ASP.NET |
 | [Dashboard de dados](#) *(em breve)* | Visualização de dados em gráficos usando API pública | HTML, JS, Chart.js |
 
