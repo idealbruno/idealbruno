@@ -31,7 +31,7 @@
 |--------|-----------|-------------|
 | [PORTFOLIO](#) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
 | [Formulário](#) *(em breve)* | Sistema de kanban com colunas e cartões arrastáveis | JS, Flask ou ASP.NET |
-| [Previsão do tempo](#) *()* | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT NODE.JS. IA GROQ API KEY|
+| [Previsão do tempo](#)  | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT NODE.JS. IA GROQ API KEY|
 
 ---
 
