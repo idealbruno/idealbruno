@@ -30,8 +30,8 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [PORTFOLIO](#) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
-| [Formulário](#) *(em breve)* |  | JS, Flask ou ASP.NET |
-| [Previsão do tempo](#)  | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT NODE.JS. IA GROQ|
+| [Formulário](#) *(em breve)* |  |  |
+| [Previsão do tempo](#)  | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
 
 ---
 
