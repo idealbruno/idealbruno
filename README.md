@@ -25,7 +25,7 @@
 
 ---
 
-### 📌 Projetos em desenvolvimento
+### 📌 Projetos 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
