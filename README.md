@@ -30,7 +30,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [PORTFÓLIO](https://idealbruno.github.io/PORTFOLIO/) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
-| [Formulário]([https://idealbruno.github.io/Previsao-do-tempo/](https://idealbruno.github.io/Formulario/)) |  | HTML. CSS |
+| [Formulário](https://idealbruno.github.io/Formulario/) |  | HTML. CSS |
 | [Previsão do tempo](https://idealbruno.github.io/Previsao-do-tempo/) | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
 
 ---
