@@ -32,7 +32,7 @@
 | [PORTFÓLIO](https://idealbruno.github.io/PORTFOLIO/) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
 | [FORMULÁRIO](https://idealbruno.github.io/Formulario/) | Formulário entrar em contato | HTML. CSS |
 | [PREVISÃO DO TEMPO](https://idealbruno.github.io/Previsao-do-tempo/) | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
-||
+|[]|
 
 ---
 
