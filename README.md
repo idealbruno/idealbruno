@@ -30,7 +30,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [PORTFOLIO](#) | Meu portfólio, um pouco sobre mim e sobre meus projetos.  | HTML, CSS, JS,|
-| [Formulário](#) HTML. CSS |  |  |
+| [Formulário](#) |  | HTML. CSS |
 | [Previsão do tempo](#)  | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
 
 ---
