@@ -33,7 +33,7 @@
 | [Formulário](https://idealbruno.github.io/Formulario/) | Formulário entrar em contato | HTML. CSS |
 | [Previsção do tempo](https://idealbruno.github.io/Previsao-do-tempo/) | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
 | [Lista de Tarefas](https://idealbruno.github.io/To-do-list/) | Lista de tarefas para anotações Simples |HTML, CSS, JAVASCRIPT |
-| [Landig Page](https://idealbruno.github.io/Landing-Page/) | |HTML, CSS, JAVASCRIPT |
+| [Landig Page](https://idealbruno.github.io/Landing-Page/) |Projeto de site para agência de marketing digital com foco em performance, design e responsividade. |HTML, CSS, JAVASCRIPT |
 
 
 ---
