@@ -25,7 +25,7 @@
 
 ---
 
-### 📌 Projetos 
+### 📌 Meus Projetos 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
