@@ -33,7 +33,8 @@
 | [Formulário](https://idealbruno.github.io/Formulario/) | Formulário entrar em contato | HTML. CSS |
 | [Previsção do tempo](https://idealbruno.github.io/Previsao-do-tempo/) | Previsão do tempo dinânico com sugestão de inteligência artificial | HTML, CSS, JAVASCRIPT, NODE.JS e IA GROQ|
 | [Lista de Tarefas](https://idealbruno.github.io/To-do-list/) | Lista de tarefas para anotações Simples |HTML, CSS, JAVASCRIPT |
-| [Landig Page](https://idealbruno.github.io/pizzariafornoebrasa/) |Projeto de uma pizzaria. |HTML, CSS, JAVASCRIPT |
+| [Landig Page](https://idealbruno.github.io/pizzariafornoebrasa/) |Projeto de desenvolvimento Front-end de um site para uma pizzaria fictícia, criado com o objetivo de apresentar um cardápio digital moderno.
+|HTML, CSS, JAVASCRIPT |
 | []() | | |
 
 
